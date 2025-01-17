@@ -1,11 +1,13 @@
-# LDN-House-Future-Predictor
+# LDN-House-Predictor
 
-This Repo showcases a project I am building involving ML models to predict future house prices in London
+This Repo showcases a project I am building involving ML models to predict house prices in London
 
 I have borrowed this dataset from kaggle
 
 All required dependencies are found in requirements.txt
 
-I have used a linear regression model for this task. I want to use another model, with the random forest classifier to predict house prices, and then compare the two models to find out which model is the most accurate.
+I have used both a linear regression model and the random forest regressor model to perform this task of predicting house prices.
+
+I have discovered that the random forest model is more accurate than the linear regression model, with an R2 value of 0.88 compared to 0.82
 
 Enjoy :)
