@@ -1,4 +1,4 @@
-# LDN-House-Predictor
+# LDN-House-Price-Predictor
 
 This Repo showcases a project I am building involving ML models to predict house prices in London
 
